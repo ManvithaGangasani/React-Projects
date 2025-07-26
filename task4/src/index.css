@@ -1,0 +1,26 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main1 {
+    border: 2px solid black;
+    padding-top: 55px;
+    padding-bottom: 55px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 20px;
+}
+
+.main2 {
+    border: 2px solid black;
+    padding: 10px;
+}
